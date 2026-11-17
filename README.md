@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Notion Portfolio](이미지_주소)](https://web-project-b-hyeonseo.notion.site/ebd//2cb172a0795c8046b6b6c2fcb89d36c8)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://web-project-b-hyeonseo.notion.site/ebd//2cb172a0795c8046b6b6c2fcb89d36c8)
 
 
 <!--
