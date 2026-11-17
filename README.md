@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Notion Portfolio](이미지_주소)](https://web-project-b-hyeonseo.notion.site/ebd//2cb172a0795c8046b6b6c2fcb89d36c8)
+
+
 <!--
 **hy0694/hy0694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
